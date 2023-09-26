@@ -5,18 +5,18 @@ html {
 	margin-top: 15px; 
 	margin-bottom: 15px;
 }
-body {background-color: powderblue;
+body {background-color: powderblue
 }
 
-h1 {color: indigo;
-		text-align:center;
+h1 {color: indigo
+		text-align: center
 		font-size:30px
 		font-type: "Times New Roman", "Times","Ariel","sans-serif"
 		}
 
 h2 {color: darkblue;
-		text-align:center
-		font-size:20px
+		text-align: center
+		font-size: 20px
 		font-type:"Times New Roman", "Times","Ariel","sans-serif"
 }
 
@@ -24,7 +24,7 @@ h3 {color: ;
 }
 
 #contactInfo {
-	text-align:center;
+	text-align: center
 	font-size:20px
 	font-type: "Times New Roman", "Times", "sans-serif";
 	
